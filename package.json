@@ -1,0 +1,11 @@
+{
+  "name": "vue3-demo",
+  "version": "1.0.0",
+  "description": "demo on vue3.0 dist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
